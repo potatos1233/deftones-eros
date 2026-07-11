@@ -1,5 +1,5 @@
 DOWNLOAD??????
 
-pc: git clone https://github.com/potatos1233/deftones-eros 
+pc: cd yourfolder git clone https://github.com/potatos1233/deftones-eros 
 
-phone:
+phone: click the code button and download as zip and extract the zip 
