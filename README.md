@@ -1,2 +1,5 @@
-# deftones-eros
-this is the deftones eros album
+DOWNLOAD??????
+
+pc: git clone https://github.com/potatos1233/deftones-eros 
+
+phone:
